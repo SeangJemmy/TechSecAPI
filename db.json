@@ -71,6 +71,79 @@
       "product_discount_price": "969",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/8.png",
       "product_verified": "true"
+    },
+    {
+      "product_id": "p9",
+      "product_name": " Samsung Galaxy Tab S7",
+      "product_category": "tablet",
+      "product_price": "700",
+      "product_discount_price": "600",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p9.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p10",
+      "product_name": " Samsung Galaxy Tab A7 Lite",
+      "product_category": "tablet",
+      "product_price": "138.24",
+      "product_discount_price": "130",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p10.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p11",
+      "product_name": "Samsung Galaxy Tab S8 Ultra",
+      "product_category": "tablet",
+      "product_price": "1300",
+      "product_discount_price": "1200",
+      "image": "https://seangjemmy.github.io/TechSecAPI/iphone/p11.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p12",
+      "product_name": "Apple iPad Air 4 64GB ",
+      "product_category": "tablet",
+      "product_price": "799",
+      "product_discount_price": "650",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p12.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p13",
+      "product_name": "iPad Pro  11 128GB",
+      "product_category": "tablet",
+      "product_price": "1050",
+      "product_discount_price": "1000",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p13.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p14",
+      "product_name": "iPad  Mini 6 64GB",
+      "product_category": "tablet",
+      "product_price": "620",
+      "product_discount_price": "600",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p14.png",
+      "product_verified": "true"
+    },
+    {
+      "product_id": "p15",
+      "product_name": "MatePad T 10s",
+      "product_category": "tablet",
+      "product_price": "300",
+      "product_discount_price": "250",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p15.png",
+      "product_verified": "true"
+    },
+
+    {
+      "product_id": "p16",
+      "product_name": "Huawei MatePad Pro ",
+      "product_category": "tablet",
+      "product_price": "680",
+      "product_discount_price": "650",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p16.png",
+      "product_verified": "true"
     }
   ]
 }
