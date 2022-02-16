@@ -1,7 +1,7 @@
 {
   "productitems": [
     {
-      "product_id": "p1",
+      "product_id": "p00001",
       "product_name": "iPhone 13 Pro Max 128GB",
       "product_category": "phone",
       "product_price": "1599",
@@ -10,7 +10,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p2",
+      "product_id": "p00002",
       "product_name": "iPhone 13 Pro Max 256GB",
       "product_category": "phone",
       "product_price": "1699",
@@ -19,7 +19,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p3",
+      "product_id": "p00003",
       "product_name": "iPhone 13 Pro 128GB",
       "product_category": "phone",
       "product_price": "1499",
@@ -28,7 +28,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p4",
+      "product_id": "p00004",
       "product_name": "iPhone 13 Pro 256GB",
       "product_category": "phone",
       "product_price": "1559",
@@ -37,7 +37,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p5",
+      "product_id": "p00005",
       "product_name": "iPhone 13 128GB",
       "product_category": "phone",
       "product_price": "1199",
@@ -46,7 +46,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p6",
+      "product_id": "p00006",
       "product_name": "iPhone 13 256GB",
       "product_category": "phone",
       "product_price": "1299",
@@ -55,7 +55,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p7",
+      "product_id": "p00007",
       "product_name": "iPhone 13 MiNi 128GB",
       "product_category": "phone",
       "product_price": "1099",
@@ -64,7 +64,7 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p8",
+      "product_id": "p00008",
       "product_name": "iPhone 13 MiNi 256GB",
       "product_category": "phone",
       "product_price": "1149",
@@ -73,76 +73,76 @@
       "product_verified": "true"
     },
     {
-      "product_id": "p9",
+      "product_id": "p00009",
       "product_name": " Samsung Galaxy Tab S7",
       "product_category": "tablet",
       "product_price": "700",
       "product_discount_price": "600",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p9.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/9.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p10",
+      "product_id": "p00010",
       "product_name": " Samsung Galaxy Tab A7 Lite",
       "product_category": "tablet",
       "product_price": "138.24",
       "product_discount_price": "130",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p10.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/10.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p11",
+      "product_id": "p00011",
       "product_name": "Samsung Galaxy Tab S8 Ultra",
       "product_category": "tablet",
       "product_price": "1300",
       "product_discount_price": "1200",
-      "image": "https://seangjemmy.github.io/TechSecAPI/iphone/p11.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/11.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p12",
+      "product_id": "p00012",
       "product_name": "Apple iPad Air 4 64GB ",
       "product_category": "tablet",
       "product_price": "799",
       "product_discount_price": "650",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p12.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/12.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p13",
+      "product_id": "p00013",
       "product_name": "iPad Pro  11 128GB",
       "product_category": "tablet",
       "product_price": "1050",
       "product_discount_price": "1000",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p13.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/13.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p14",
+      "product_id": "p00014",
       "product_name": "iPad  Mini 6 64GB",
       "product_category": "tablet",
       "product_price": "620",
       "product_discount_price": "600",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p14.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/14.png",
       "product_verified": "true"
     },
     {
-      "product_id": "p15",
+      "product_id": "p00015",
       "product_name": "MatePad T 10s",
       "product_category": "tablet",
       "product_price": "300",
       "product_discount_price": "250",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p15.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/15.png",
       "product_verified": "true"
     },
 
     {
-      "product_id": "p16",
+      "product_id": "p00016",
       "product_name": "Huawei MatePad Pro ",
       "product_category": "tablet",
       "product_price": "680",
       "product_discount_price": "650",
-      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/p16.png",
+      "image": "https://seangjemmy.github.io/TechSecAPI/tablet/16.png",
       "product_verified": "true"
     }
   ]
