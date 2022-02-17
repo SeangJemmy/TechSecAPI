@@ -164,7 +164,7 @@
     {
       "product_id": "p00017",
       "product_name": "MacBook Pro M1 Pro",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "2150",
       "product_discount_price": "2090",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/1.png",
@@ -174,7 +174,7 @@
     {
       "product_id": "p00018",
       "product_name": "MacBook Air M12020",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "900",
       "product_discount_price": "880",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/2.png",
@@ -184,7 +184,7 @@
     {
       "product_id": "p00019",
       "product_name": "Microsoft Surface Pro X LTE",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "990",
       "product_discount_price": "940",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/3.png",
@@ -194,7 +194,7 @@
     {
       "product_id": "p00020",
       "product_name": "Microsoft Surface Pro 8 2021",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "1270",
       "product_discount_price": "1220",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/4.png",
@@ -204,7 +204,7 @@
     {
       "product_id": "p00021",
       "product_name": "DELL G15 5515 Gaming",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "1240",
       "product_discount_price": "1200",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/5.png",
@@ -214,7 +214,7 @@
     {
       "product_id": "p00022",
       "product_name": "DELL Inspiron 7610 Plus",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "1140",
       "product_discount_price": "1090",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/6.png",
@@ -224,7 +224,7 @@
     {
       "product_id": "p00023",
       "product_name": "DELL Inspiron 5406",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "780",
       "product_discount_price": "740",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/7.png",
@@ -234,7 +234,7 @@
     {
       "product_id": "p00024",
       "product_name": "HP OMEN 16 2022",
-      "product_category": "Laptop",
+      "product_category": "laptop",
       "product_price": "1380",
       "product_discount_price": "1300",
       "image": "https://seangjemmy.github.io/TechSecAPI/laptop/8.png",
