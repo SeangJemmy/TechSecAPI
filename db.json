@@ -7,6 +7,7 @@
       "product_price": "1599",
       "product_discount_price": "1329",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/1.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -16,6 +17,7 @@
       "product_price": "1699",
       "product_discount_price": "1449",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/2.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -25,6 +27,7 @@
       "product_price": "1499",
       "product_discount_price": "1229",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/3.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -34,6 +37,7 @@
       "product_price": "1559",
       "product_discount_price": "1359",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/4.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -43,6 +47,7 @@
       "product_price": "1199",
       "product_discount_price": "949",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/5.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -52,6 +57,7 @@
       "product_price": "1299",
       "product_discount_price": "1079",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/6.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -61,6 +67,7 @@
       "product_price": "1099",
       "product_discount_price": "849",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/7.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -70,6 +77,7 @@
       "product_price": "1149",
       "product_discount_price": "969",
       "image": "https://seangjemmy.github.io/TechSecAPI/iphone/8.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -79,6 +87,7 @@
       "product_price": "700",
       "product_discount_price": "600",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/9.png",
+      "product_brand": "samsung",
       "product_verified": "true"
     },
     {
@@ -88,6 +97,7 @@
       "product_price": "138.24",
       "product_discount_price": "130",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/10.png",
+      "product_brand": "samsung",
       "product_verified": "true"
     },
     {
@@ -97,6 +107,7 @@
       "product_price": "1300",
       "product_discount_price": "1200",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/11.png",
+      "product_brand": "samsung",
       "product_verified": "true"
     },
     {
@@ -106,6 +117,7 @@
       "product_price": "799",
       "product_discount_price": "650",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/12.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -115,6 +127,7 @@
       "product_price": "1050",
       "product_discount_price": "1000",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/13.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -124,6 +137,7 @@
       "product_price": "620",
       "product_discount_price": "600",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/14.png",
+      "product_brand": "apple",
       "product_verified": "true"
     },
     {
@@ -133,6 +147,7 @@
       "product_price": "300",
       "product_discount_price": "250",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/15.png",
+      "product_brand": "huawei",
       "product_verified": "true"
     },
 
@@ -143,6 +158,7 @@
       "product_price": "680",
       "product_discount_price": "650",
       "image": "https://seangjemmy.github.io/TechSecAPI/tablet/16.png",
+      "product_brand": "apple",
       "product_verified": "true"
     }
   ]
