@@ -82,7 +82,7 @@
     },
     {
       "product_id": "p00009",
-      "product_name": " Samsung Galaxy Tab S7",
+      "product_name": "Samsung Galaxy Tab S7",
       "product_category": "tablet",
       "product_price": "700",
       "product_discount_price": "600",
@@ -92,7 +92,7 @@
     },
     {
       "product_id": "p00010",
-      "product_name": " Samsung Galaxy Tab A7 Lite",
+      "product_name": "Samsung Galaxy Tab A7 Lite",
       "product_category": "tablet",
       "product_price": "138.24",
       "product_discount_price": "130",
@@ -112,7 +112,7 @@
     },
     {
       "product_id": "p00012",
-      "product_name": "Apple iPad Air 4 64GB ",
+      "product_name": "iPad Air 4 64GB ",
       "product_category": "tablet",
       "product_price": "799",
       "product_discount_price": "650",
@@ -122,7 +122,7 @@
     },
     {
       "product_id": "p00013",
-      "product_name": "iPad Pro  11 128GB",
+      "product_name": "iPad Pro 11 128GB",
       "product_category": "tablet",
       "product_price": "1050",
       "product_discount_price": "1000",
@@ -132,7 +132,7 @@
     },
     {
       "product_id": "p00014",
-      "product_name": "iPad  Mini 6 64GB",
+      "product_name": "iPad Mini 6 64GB",
       "product_category": "tablet",
       "product_price": "620",
       "product_discount_price": "600",
@@ -142,7 +142,7 @@
     },
     {
       "product_id": "p00015",
-      "product_name": "MatePad T 10s",
+      "product_name": "Huawei MatePad T 10s",
       "product_category": "tablet",
       "product_price": "300",
       "product_discount_price": "250",
@@ -153,7 +153,7 @@
 
     {
       "product_id": "p00016",
-      "product_name": "Huawei MatePad Pro ",
+      "product_name": "Huawei MatePad Pro",
       "product_category": "tablet",
       "product_price": "680",
       "product_discount_price": "650",
